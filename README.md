@@ -1,4 +1,4 @@
-# Analyzing the impact of area-level deprivation and demographic trends on the restaurant industry in London
+# Association between area-level deprivation, demographic trends and restaurant placements in London
 Adrian Turculet
 ## 1. Introduction
 ### 1.1 Background
@@ -6,10 +6,10 @@ London is the capital of England and the United Kingdom and one of the largest a
 With such a large number of inhabitants, the deprivation levels and population density can vary immensely between the 32 local authorities, also known as the London boroughs. 
 ### 1.2 Business problem
 London is not only known for its population size and diversity but also for the restaurant industry which plays an important role in the city's economy. 
-For this reason, in this project I will be comparing and analysing the different deprivation levels and population demographics across London's boroughs and their impact on the restaurant industry, specifically, what types of restaurants and their costs can be found in different boroughs.
+For this reason, in this project I will be comparing and analysing the different deprivation levels and population demographics across London's boroughs and investigate the association between deprivation levels and restaurant locations, specifically, what types of restaurants and their prices can be found in different boroughs.
 ### 1.3 Interest
 The findings of this research can help potential/existing restaurateurs looking to open a new restaurant or Chain Restaurant stakeholders, by identifying new suitable locations for their business based on various characteristics such as:
-- food cost
+- Price range
 - number of competing restaurants in the area
 - population density 
 - area-level deprivation 
