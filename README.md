@@ -1,4 +1,5 @@
 # Analyzing the impact of area-level deprivation and demographic trends on the restaurant industry in London
+Adrian Turculet
 ## 1. Introduction
 ### 1.1 Background
 London is the capital of England and the United Kingdom and one of the largest and most important cities in the world. It has a diverse range of people and cultures that currently make the city one of the most populate cities in the world with 9,787,426 inhabitants registered at the 2011 census.[1]
