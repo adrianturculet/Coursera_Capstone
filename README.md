@@ -10,9 +10,9 @@ For this reason, in this project I will be comparing and analysing the different
 ### 1.3 Interest
 The findings of this research can help potential/existing restaurateurs looking to open a new restaurant or Chain Restaurant stakeholders, by identifying new suitable locations for their business based on various characteristics such as:
 - Price range
-- number of competing restaurants in the area
-- population density 
-- area-level deprivation 
+- Number of competing restaurants in the area
+- Population density 
+- Area-level deprivation 
 
 ## 2. Data
 To achieve the goals set out in this project, various types of data will be explored and analysed. This includes real-time location data using the Foursquare API[2], geospatial data using Python Geocoder library[3] and GADM (Database of Global Administrative Areas) data, Indices of Deprivation data[4] and London Borough Profiles data using the online London Datastore[5].
