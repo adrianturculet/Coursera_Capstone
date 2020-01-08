@@ -20,7 +20,7 @@ To achieve the goals set out in this project, various types of data will be expl
 Foursquare is a social networking service that provides independent location data. The purpose of the platform is to provide users with information about businesses and attractions around them using real-time location data.[6]
 This API will be instrumental in identifying detailed information about restaurants across London.
 ### 2.2 Python Geocoder library
-Geocoder is a simple and consistent geocoding library written in Python. I helps developers to locate the coordinates of addreses, cities, countries and landmarks across the globe.
+Geocoder is a simple and consistent geocoding library written in Python. It helps developers to locate the coordinates of addreses, cities, countries and landmarks across the globe.
 The Geocoder will help get the coordinates for every London borough. 
 ### 2.3 GADM (Database of Global Administrative Areas) data
 GADM is a high-resolution database of country administrative areas, with a goal of "all countries, at all levels, at any time period. The database includes shapefiles that are used in Geographic Information System (GIS) applications. 
